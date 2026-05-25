@@ -1,0 +1,32 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "homepage": "https://github.com/maatiko/NODEJS#readme",
+  "bugs": {
+    "url": "https://github.com/maatiko/NODEJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maatiko/NODEJS.git"
+  },
+  "license": "MIT",
+  "author": "matiko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
