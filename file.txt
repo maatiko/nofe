@@ -1,0 +1,1 @@
+criando txxt ficticio para ler com a API nativa de FS
